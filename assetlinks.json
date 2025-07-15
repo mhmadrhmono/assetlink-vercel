@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.muhammedrahmuno.jobs",
+      "sha256_cert_fingerprints": [
+        "14:51:6E:A7:D1:72:97:E2:58:D2:BC:BD:94:91:3B:E2:95:F5:7C:96:B0:57:1F:2C:F5:A9:05:B4:4C:87:47:81"
+      ]
+    }
+  }
+]
